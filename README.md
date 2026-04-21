@@ -6,22 +6,21 @@ This repository contains an analysis of the unemployment rate in India, focusing
 
 - `app.ipynb`: Jupyter notebook containing the full analysis, data processing, and visualizations.
 - `README.md`: Project documentation.
+- `graphs/`: Contains extracted visualizations from the notebook.
 
 ## Visualizations and Insights
 
-The analysis generates several key visualizations to understand the unemployment landscape:
+The analysis generates several key visualizations to understand the unemployment landscape. Below are the graphs extracted directly from the notebook detailing unemployment trends, regional analyses, and feature correlations:
 
-### 1. Unemployment Rate Trend over Time
-![Unemployment Trend](https://via.placeholder.com/800x400.png?text=Unemployment+Rate+Trend+over+Time)
-*Tracks the overall unemployment rate to highlight the severe spike during the initial COVID-19 lockdowns.*
+![Graph 1](graphs/graph_1.png)
 
-### 2. State-wise Unemployment Analysis
-![State-wise Analysis](https://via.placeholder.com/800x400.png?text=State-wise+Unemployment+Analysis)
-*Compares unemployment rates across various states to identify regions most affected by economic downturns.*
+![Graph 2](graphs/graph_2.png)
 
-### 3. Urban vs Rural Unemployment
-![Urban vs Rural](https://via.placeholder.com/800x400.png?text=Urban+vs+Rural+Unemployment)
-*Analyzes the disparity in unemployment between urban and rural areas.*
+![Graph 3](graphs/graph_3.png)
+
+![Graph 4](graphs/graph_4.png)
+
+![Graph 5](graphs/graph_5.png)
 
 ## Requirements
 
@@ -36,4 +35,4 @@ The analysis generates several key visualizations to understand the unemployment
 
 1. Clone or download the repository.
 2. Open `app.ipynb` using Jupyter Notebook or JupyterLab.
-3. Run the cells to reproduce the analysis and view the generated graphs.
+3. Run the cells to reproduce the analysis and view the generated graphs interactively.
